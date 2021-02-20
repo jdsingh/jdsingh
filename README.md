@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 ```kotlin
 val jagdeep = developer {
-	about {
-		name = "Jagdeep  Singh"
-	}
-	tech("Kotlin", "Android")
-	links {
-		twitter = "@jsmundi"
-	}
+  about {
+    name = "Jagdeep  Singh"
+  }
+  tech("Kotlin", "Android")
+  links {
+    twitter = "@jsmundi"
+  }
 }
 ```
