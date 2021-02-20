@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```kotlin
+val jagdeep = developer {
+  about {
+    name = "Jagdeep  Singh"
+  }
+  tech("Kotlin", "Android")
+  links {
+        twitter = "@jsmundi"
+    }
+}
+```
