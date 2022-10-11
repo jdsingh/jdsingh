@@ -7,11 +7,11 @@
 ```kotlin
 val jagdeep = engineer {
   about {
-    name = "Jagdeep  Singh"
+    name = "Jagdeep Singh"
   }
   tech("Kotlin", "Android")
   links {
-    twitter = "@jsmundi"
+    twitter = "@kingpin_1111"
   }
 }
 ```
